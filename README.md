@@ -12,4 +12,4 @@ This notebook records the use of Naive Bayes for sentiment analysis of tweets.
 This notebook centres around word embeddings (vectors). Cosine similarity is used to compare word embeddings and find analogies. Principal component analysis (PCA) is used to simplify and visualise word embeddings in 2D.
 
 4. C1_W4_Assignment.ipynb:
-This notebook records the procedures and results of two tasks. First, it describes a naive English-to-French translation system, which is a transformation matrix mapping one vector space (English word embeddings) to another (French word embeddings). Second, it presents how the k-nearest neighbours algorithm can be combined with locality sensitive hashing to find similar documents.
+This notebook records the procedures and results of two tasks. First, it describes a naive English-to-French translation system, which is a transformation matrix mapping one vector space (English word embeddings) to another (French word embeddings). Second, it presents a bag-of-words model and how the k-nearest neighbours algorithm can be combined with locality sensitive hashing to find similar documents.
