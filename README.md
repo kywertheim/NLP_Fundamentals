@@ -1,6 +1,6 @@
 # NLP_Fundamentals
 
-Context: I completed these guided programming exercises during the Coursera course entitled 'Natural Language Processing with Classification and Vector Spaces'.
+Context: I completed these guided programming exercises during the Coursera course entitled Natural Language Processing with Classification and Vector Spaces.
 
 1. C1_W1_Assignment.ipynb:
 This notebook records the use of logistic regression for sentiment analysis of tweets.
